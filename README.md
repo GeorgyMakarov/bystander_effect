@@ -41,6 +41,8 @@ Conditions for moving a bystander:
 - do not move closer to an event then you are now;  
 - do not cross the border of the universe;  
 
+![Simulation output](https://github.com/GeorgyMakarov/bystander_effect/blob/main/record_screen.gif)  
+
 ## Sources
 
 [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/ch04.html)  
